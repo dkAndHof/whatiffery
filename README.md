@@ -39,7 +39,7 @@ The ones with a link have a short page comparing the options. The ones without a
 - **[Abstracted controls](decisions/0004-abstracted-controls.md).** Shape and quality in plain
   words, not the model's settings.
 - **[Directions, not smaller projects](decisions/0005-directions-not-smaller-projects.md).** A new
-  idea gets a fresh start next to what you tried.
+  idea can get a fresh start within the existing project.
 - **[Image controls on hover](decisions/0006-image-controls-on-hover.md).** The image gets the
   room, and its actions appear when you point at it.
 - **Nothing blocks.** The prompt box stays open while an image is made, and you can move freely
@@ -47,8 +47,8 @@ The ones with a link have a short page comparing the options. The ones without a
 - **Partial results stream in.** You can tell early whether an image is worth waiting for.
 - **Work lives in projects.** Your first prompt starts one and names it, so there's nothing to set
   up.
-- **Personal by default.** Projects start private, and move to a team when they're ready to share.
-- **Sidebars collapse.** Both side panels fold away, so the image gets the room.
+- **Personal by default.** Users start with a Personal workspace, and can move projects to their team when they're ready to share.
+- **Sidebars collapse.** Both side panels fold away, so the image gets the room. 
 
 ## What's next? Trying out a prototype with users. 
 
